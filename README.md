@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:064e3b,100:00ff9c&text=BRADLEY%20RICHEZ&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20BUILDING%20FOR%20THE%20WEB&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Bradley Richez - Web Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:064e3b,100:00ff9c&text=BRADLEY%20RICHEZ&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER%20%7C%20BUILDING%20FOR%20THE%20WEB&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Bradley Richez - Web Developer" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=%3E+Hello+World%2C+I'm+Bradley;%3E+PHP+%2F+Symfony+%2F+JavaScript;%3E+Clean+code.+Creative+solutions.;%3E+Always+learning%2C+always+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=%3E+Hello+%2C+I'm+Bradley;%3E+PHP+%2F+Symfony+%2F+JavaScript;%3E+Clean+code.+Creative+solutions.;%3E+Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
 <a href="https://github.com/bradley-richez?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-00ff9c?style=for-the-badge&logo=github&logoColor=020617&labelColor=020617" alt="Explore my projects" /></a>
 <img src="https://komarev.com/ghpvc/?username=bradley-richez&style=for-the-badge&color=00b894&label=PROFILE+VIEWS" alt="Profile views" />
@@ -13,7 +13,7 @@
 
 ```text
 Name       : Bradley Richez
-Role       : Web Developer
+Role       : Full-Stack Web Developer
 Focus      : Modern, maintainable web applications
 Stack      : PHP · Symfony · Twig · JavaScript · SQL
 Mindset    : Learn. Build. Improve.
