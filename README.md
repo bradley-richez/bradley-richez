@@ -54,7 +54,7 @@ I build web experiences with attention to **clean interfaces**, **maintainable c
 <!-- Replace these examples with your actual repositories once you choose which to feature. -->
 
 <div align="center">
-
+<h6>Salut</h6>
 <a href="https://github.com/bradley-richez?tab=repositories"><img src="https://img.shields.io/badge/01-SYMFONY_%26_PHP_PROJECTS-00ff9c?style=for-the-badge&labelColor=111827" alt="Symfony and PHP projects" /></a>
 <a href="https://github.com/bradley-richez?tab=repositories"><img src="https://img.shields.io/badge/02-FRONTEND_PROJECTS-00d9ff?style=for-the-badge&labelColor=111827" alt="Frontend projects" /></a>
 <a href="https://github.com/bradley-richez?tab=repositories"><img src="https://img.shields.io/badge/03-ALL_REPOSITORIES-a78bfa?style=for-the-badge&labelColor=111827" alt="All repositories" /></a>
